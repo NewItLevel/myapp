@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import classnames from 'classnames'
 import { Route, Switch, BrowserRouter } from 'react-router-dom';
 import { NavLink } from 'react-router-dom';
 import Pasha from './Pasha';
