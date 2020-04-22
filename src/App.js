@@ -96,7 +96,7 @@ class App extends React.Component {
         <h3 className="w3 b">Ха-ха-ха</h3>
         <h3 className="w3 c">Может последний</h3>
         <h2 className="w2 a">А может первый</h2>
-        <h2 className="w2 b">А может никакой</h2>
+        <h2 className="w2 b">А может ни какой</h2>
         <h2 className="w2 c"onClick={this.changeTitle} onDoubleClick={this.changeAgainTitle}>{this.state.title2}</h2>
         <h1 className="v1 a">Даня - краля</h1>
         <h1 className="v1 b">Дай автограф))</h1>
